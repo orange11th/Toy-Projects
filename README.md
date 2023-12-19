@@ -10,6 +10,7 @@
 ### [랩뷰 프로젝트 보러가기](https://github.com/orange11th/Side-Projects/tree/main/LabVIEW)
 
 #### 티스토리 블로그에서 코드 별 자세한 설명을 볼 수 있습니다. [티스토리](https://ggaebap.tistory.com/)
+#### 리드미에 추가하지 못한 코드들도 볼 수 있어요!
 
 </br>
 
