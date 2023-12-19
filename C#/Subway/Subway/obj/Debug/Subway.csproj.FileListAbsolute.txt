@@ -1,0 +1,10 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\Subway\Subway\bin\Debug\Subway.exe.config
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\bin\Debug\Subway.exe
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\bin\Debug\Subway.pdb
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\obj\Debug\Subway.csprojResolveAssemblyReference.cache
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\obj\Debug\Subway.Form1.resources
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.Cache
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\obj\Debug\Subway.exe
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\obj\Debug\Subway.pdb
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Subway\Subway\obj\Debug\Subway.Form2.resources

@@ -1,0 +1,9 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyReference.cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.Form1.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.Properties.Resources.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.GenerateResource.Cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.pdb

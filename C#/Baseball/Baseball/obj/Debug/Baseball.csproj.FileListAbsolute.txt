@@ -1,0 +1,9 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\bin\Debug\Baseball.exe.config
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\bin\Debug\Baseball.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\bin\Debug\Baseball.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\obj\Debug\Baseball.csprojResolveAssemblyReference.cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\obj\Debug\Baseball.Form1.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\obj\Debug\Baseball.Properties.Resources.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\obj\Debug\Baseball.csproj.GenerateResource.Cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\obj\Debug\Baseball.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Baseball\Baseball\obj\Debug\Baseball.pdb

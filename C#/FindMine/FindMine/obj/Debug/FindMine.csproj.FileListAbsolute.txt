@@ -1,0 +1,9 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\bin\Debug\FindMine.exe.config
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\bin\Debug\FindMine.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\bin\Debug\FindMine.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\obj\Debug\FindMine.csprojResolveAssemblyReference.cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\obj\Debug\FindMine.Form1.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\obj\Debug\FindMine.Properties.Resources.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\obj\Debug\FindMine.csproj.GenerateResource.Cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\obj\Debug\FindMine.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\FindMine\FindMine\obj\Debug\FindMine.pdb

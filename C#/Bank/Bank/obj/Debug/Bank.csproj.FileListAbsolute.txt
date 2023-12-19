@@ -1,0 +1,9 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form1.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.pdb

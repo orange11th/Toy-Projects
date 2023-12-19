@@ -1,0 +1,9 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\bin\Debug\Database.exe.config
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\bin\Debug\Database.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\bin\Debug\Database.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.Form1.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.Properties.Resources.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Database\Database\obj\Debug\Database.pdb

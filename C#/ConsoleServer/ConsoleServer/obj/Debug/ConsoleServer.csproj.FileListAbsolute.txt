@@ -1,0 +1,6 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+c:\users\jangwoo\documents\visual studio 2012\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb
+C:\Users\JangWoo\documents\visual studio 2012\Projects\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.csprojResolveAssemblyReference.cache

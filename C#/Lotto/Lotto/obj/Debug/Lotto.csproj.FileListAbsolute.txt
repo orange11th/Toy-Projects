@@ -1,0 +1,9 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\bin\Debug\Lotto.exe.config
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\bin\Debug\Lotto.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\bin\Debug\Lotto.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\obj\Debug\Lotto.csprojResolveAssemblyReference.cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\obj\Debug\Lotto.Form1.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\obj\Debug\Lotto.csproj.GenerateResource.Cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\obj\Debug\Lotto.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\Lotto\Lotto\obj\Debug\Lotto.pdb

@@ -1,0 +1,10 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\bin\Debug\BioRhythm.exe.config
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\obj\Debug\BioRhythm.csprojResolveAssemblyReference.cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\obj\Debug\BioRhythm.Form1.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\obj\Debug\BioRhythm.Properties.Resources.resources
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\obj\Debug\BioRhythm.csproj.GenerateResource.Cache
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\bin\Debug\BioRhythm.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\bin\Debug\BioRhythm.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\obj\Debug\BioRhythm.exe
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\obj\Debug\BioRhythm.pdb
+c:\users\jangwoo\documents\visual studio 2012\Projects\BioRhythm\BioRhythm\obj\Debug\BioRhythm.XYControl.resources

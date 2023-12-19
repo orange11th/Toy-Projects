@@ -1,0 +1,9 @@
+c:\users\jangwoo\documents\visual studio 2012\Projects\Chatting\Chatting\bin\Debug\Chatting.exe.config
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Chatting\Chatting\bin\Debug\Chatting.exe
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Chatting\Chatting\bin\Debug\Chatting.pdb
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Chatting\Chatting\obj\Debug\Chatting.csprojResolveAssemblyReference.cache
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Chatting\Chatting\obj\Debug\Chatting.Form1.resources
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Chatting\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Chatting\Chatting\obj\Debug\Chatting.csproj.GenerateResource.Cache
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Chatting\Chatting\obj\Debug\Chatting.exe
+C:\Users\JangWoo\Documents\Visual Studio 2012\Projects\Chatting\Chatting\obj\Debug\Chatting.pdb
