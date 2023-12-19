@@ -9,6 +9,8 @@
 ### [C# 프로젝트 보러가기](https://github.com/orange11th/Side-Projects/tree/main/C%23)
 ### [랩뷰 프로젝트 보러가기](https://github.com/orange11th/Side-Projects/tree/main/LabVIEW)
 
+#### 티스토리 블로그에서 코드 별 자세한 설명을 볼 수 있습니다. [티스토리](https://ggaebap.tistory.com/)
+
 </br>
 
 ##### (여러 언어의 프로젝트를 하나의 레포지토리에 모아두는거 별로일까요? :open_mouth:)
