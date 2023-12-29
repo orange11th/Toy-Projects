@@ -5,9 +5,23 @@
 
 ## 40여개의 사이드 프로젝트들이 있습니다. 한번 둘러보세요! :tired_face:
 
-### [자바 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/JAVA)
-### [C# 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/C%23)
-### [랩뷰 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/LabVIEW)
+## [자바 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/JAVA)
+> #### 예시
+https://github.com/orange11th/Side-Projects/assets/82896260/caaec3a0-c173-49f8-83cc-3b008ad57022
+
+</br>
+
+## [C# 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/C%23)
+> #### 예시
+![database](https://github.com/orange11th/Side-Projects/assets/82896260/051c0ae5-390d-4aa8-9388-f4253a92b74d)
+
+</br>
+
+## [랩뷰 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/LabVIEW)
+> #### 예시
+![security](https://github.com/orange11th/Side-Projects/assets/82896260/afa498b1-6cb9-48ab-8e93-aae8872e9b4a)
+
+</br>
 
 #### 티스토리 블로그에서 코드 별 자세한 설명을 볼 수 있습니다. [티스토리](https://ggaebap.tistory.com/)
 #### 리드미에 추가하지 못한 코드들도 볼 수 있어요!
