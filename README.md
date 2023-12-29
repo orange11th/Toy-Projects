@@ -5,9 +5,9 @@
 
 ## 40여개의 사이드 프로젝트들이 있습니다! 한번 둘러보세요! :tired_face:
 
-### [자바 프로젝트 보러가기](https://github.com/orange11th/Side-Projects/tree/main/JAVA)
-### [C# 프로젝트 보러가기](https://github.com/orange11th/Side-Projects/tree/main/C%23)
-### [랩뷰 프로젝트 보러가기](https://github.com/orange11th/Side-Projects/tree/main/LabVIEW)
+### [자바 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/JAVA)
+### [C# 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/C%23)
+### [랩뷰 프로젝트들 보러가기](https://github.com/orange11th/Side-Projects/tree/main/LabVIEW)
 
 #### 티스토리 블로그에서 코드 별 자세한 설명을 볼 수 있습니다. [티스토리](https://ggaebap.tistory.com/)
 #### 리드미에 추가하지 못한 코드들도 볼 수 있어요!
