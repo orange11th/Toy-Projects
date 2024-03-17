@@ -23,9 +23,5 @@ https://github.com/orange11th/Side-Projects/assets/82896260/caaec3a0-c173-49f8-8
 
 </br>
 
-#### 티스토리 블로그에서 코드 별 자세한 설명을 볼 수 있습니다. [티스토리](https://ggaebap.tistory.com/)
+#### [블로그](https://ggaebap.tistory.com)에서 코드 별 자세한 설명을 볼 수 있습니다.
 #### 리드미에 추가하지 못한 코드들도 볼 수 있어요!
-
-</br>
-
-##### (여러 언어의 프로젝트를 하나의 레포지토리에 모아두는거 별로일까요? :open_mouth:)
